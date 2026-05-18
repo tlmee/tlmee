@@ -1,69 +1,32 @@
-# tlmee 👋
-
-### Backend & SaaS Developer
-
-I build scalable SaaS platforms, automation systems, and backend services using TypeScript and Node.js.
-
----
-
-## 🚀 Focus
-
-- SaaS Platforms
-- Backend Systems
-- APIs & Architecture
-- Automation & Discord Systems
-
----
-
-## ⚙️ Tech Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-
----
-
-## 📊 GitHub Stats
+## 🚀 FuratBot Platform
 
 <p align="center">
+  <a href="https://furatbot.com" target="_blank">
+    <img src="https://furatbot.com/preview.png" width="700" alt="FuratBot Preview"/>
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tlmee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlmee&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+<p align="center">
+  <a href="https://furatbot.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Platform-furatbot.com-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 Activity
+### ⚡ What is FuratBot?
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlmee&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlmee&theme=tokyo-night&hide_border=true"/>
-</p>
+A scalable Discord automation platform with:
+- Dashboard control panel
+- Real-time analytics
+- Server management tools
+- Automation & moderation systems
 
 ---
 
-## 📌 Projects
+### 🧠 Architecture Focus
 
-### 🔹 Furat Bot
-Discord automation system with dashboard, analytics, and scalable backend.
-
-### 🔹 SaaS Tools
-Subscription systems, APIs, and automation platforms.
-
----
-
-## 🌍 Connect
-
-- GitHub: https://github.com/tlmee
-- Discord: furatbot
-- X: https://x.com/furatbot
+- Node.js backend
+- TypeScript services
+- MongoDB data layer
+- API-driven system
