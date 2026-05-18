@@ -38,20 +38,23 @@
 
 ## 🧠 FOCUS
 
-```txt id="focus"
-• Backend Systems
-• SaaS Platforms
-• API Development
-• Automation Tools
+- Backend Systems  
+- SaaS Platforms  
+- API Development  
+- Automation Tools  
+
+---
+
+## 🌐 LINKS
 
 <p align="center">
   <a href="https://github.com/tlmee">GitHub</a> •
   <a href="https://x.com/">Twitter</a> •
-  <a href="https://linkedin.com/">LinkedIn</a>
+  <a href="https://furatbot.com">FuratBot</a>
 </p>
 
+---
 
 <p align="center">
-  BUILD SYSTEMS • NOT SCRIPTS
+  <b>BUILD SYSTEMS • NOT SCRIPTS</b>
 </p>
-```
