@@ -1,69 +1,69 @@
-```md
-# Hussein Makia 👋
+# tlmee 👋
 
-### Backend & SaaS Developer from Iraq 🇮🇶
+### Backend & SaaS Developer
 
-I build scalable systems, SaaS platforms, automation tools, and modern web applications using TypeScript and Node.js.
-
----
-
-## 🚀 Current Focus
-
-- Building SaaS products
-- Scalable backend systems
-- Automation & dashboards
-- Modern web architectures
+I build scalable SaaS platforms, automation systems, and backend services using TypeScript and Node.js.
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Focus
 
-### Backend
-Node.js
-TypeScript
-Express
-MongoDB
-
-### Frontend
-React
-Next.js
-
-### Tools
-Docker
-Git
-Figma
+- SaaS Platforms
+- Backend Systems
+- APIs & Architecture
+- Automation & Discord Systems
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Tech Stack
 
-### 🔹 Furat Bot
-Advanced Discord platform with dashboard, automation systems, analytics, and scalable infrastructure.
-
-### 🔹 SaaS Systems
-Custom platforms focused on automation, subscriptions, management systems, and APIs.
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tlmee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlmee&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlmee&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlmee&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 📌 Projects
 
-- Website: https://yourwebsite.com
-- Discord: furatbot
-- X/Twitter: https://x.com/furatbot
+### 🔹 Furat Bot
+Discord automation system with dashboard, analytics, and scalable backend.
+
+### 🔹 SaaS Tools
+Subscription systems, APIs, and automation platforms.
 
 ---
 
-> “Build systems. Not small scripts.”
-``
+## 🌍 Connect
+
+- GitHub: https://github.com/tlmee
+- Discord: furatbot
+- X: https://x.com/furatbot
