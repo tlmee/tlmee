@@ -1,10 +1,10 @@
-# tlmee 👋
+# tlmee 
 
 ### Backend • SaaS • Systems Developer
 
 ---
 
-## ⚡ STACK
+##  STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,docker,git,linux" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 FOCUS
+##  FOCUS
 
 - Backend Systems  
 - SaaS Platforms  
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+##  GITHUB STATS
 
 <p align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔥 ACTIVITY
+##  ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlmee&theme=github-dark-blue&hide_border=true"/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🌐 CONNECT
+##  CONNECT
 
 <p align="center">
   <a href="https://github.com/tlmee">GitHub</a> •
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 MINDSET
+##  MINDSET
 
 <p align="center">
   <b>BUILD SYSTEMS • NOT SCRIPTS</b>
